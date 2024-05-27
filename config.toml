@@ -1,4 +1,4 @@
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -8,19 +8,19 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 enabled = true
 app-name = "YouTube"
 build-mode = "both"#both指同时打包apk和模块，只打包面具模块把both改成module
-version = "19.16.39"#每次打包前记得看一眼补丁支持版本
-patches-source = "re-zero001/revanced-patches"
+version = "19.20.34"#每次打包前记得看一眼补丁支持版本
+patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX"
-patches-version = "v2.225.0-dev.20.1"
-integrations-version = "v0.152.0-dev.11"
+patches-version = "v2.225.0-dev.23"
+integrations-version = "v0.152.0-dev.13"
 #这两个版本在补丁更新的时候记得改
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = ""#排除列表
 included-patches = "'MaterialYou'"#强制包含列表 补丁有个默认列表，有些是默认关闭的
-arch = "arm64-v8a"
+arch = "all"
 
 [YouTube]
 enabled = false
