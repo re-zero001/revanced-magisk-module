@@ -9,11 +9,11 @@ enabled = true
 app-name = "YouTube"
 build-mode = "both"#both指同时打包apk和模块，只打包面具模块把both改成module
 version = "19.20.34"#每次打包前记得看一眼补丁支持版本
-patches-source = "re-zero001/revanced-patches"
+patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX"
-patches-version = "v2.225.0-dev.23.3"
+patches-version = "v2.225.0-dev.25"
 integrations-version = "v0.152.0-dev.13"
 #这两个版本在补丁更新的时候记得改
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
