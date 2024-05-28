@@ -13,7 +13,7 @@ patches-source = "re-zero001/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX"
-patches-version = "v2.225.0-dev.23.2"
+patches-version = "v2.225.0-dev.23.3"
 integrations-version = "v0.152.0-dev.13"
 #这两个版本在补丁更新的时候记得改
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
