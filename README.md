@@ -6,7 +6,7 @@ My own Telegram channel: https://t.me/ReAreaZero
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/re-zero001/revanced-magisk-module/releases).
+Get the [latest Build release](https://github.com/re-zero001/revanced-magisk-module/releases).
 
 使用 [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
