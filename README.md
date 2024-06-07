@@ -1,5 +1,8 @@
 # ReVanced Magisk Module
-My own Telegram channel: https://t.me/ReAreaZero
+
+此项目发布个人对 anddea 的预发行补丁的 100% 简体中文汉化的构建版本，补丁选择使用原版图标以及 Material 主题。
+
+个人 Telegram 频道，发布一些没用的东西，欢迎参观: https://t.me/ReAreaZero
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
 [![build](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml/badge.svg?event=schedule)](https://github.com/re-zero001/revanced-magisk-module/actions/workflows/build.yml)
