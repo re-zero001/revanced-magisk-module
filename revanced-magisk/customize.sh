@@ -1,5 +1,4 @@
 #!/system/bin/sh
-NVBASE=/data/adb
 。 "$MODPATH/config"
 
 ui_print ""
