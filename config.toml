@@ -18,7 +18,7 @@ integrations-version = "v0.154.0"
 #这两个版本在补丁更新的时候记得改
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Restore old seekbar thumbnails setting''Alternative thumbnails''Bypass image region restrictions'"#排除列表
+excluded-patches = ""#排除列表
 included-patches = "'MaterialYou'"#强制包含列表 补丁有个默认列表，有些是默认关闭的
 arch = "all"
 
