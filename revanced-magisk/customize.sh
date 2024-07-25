@@ -1,5 +1,6 @@
 #!/system/bin/sh
-. "$MODPATH/config"
+NVBASE=/data/adb
+。 "$MODPATH/config"
 
 ui_print ""
 if [ -n "$MODULE_ARCH" ] && [ "$MODULE_ARCH" != "$ARCH" ]; then
