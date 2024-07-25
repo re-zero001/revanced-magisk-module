@@ -1,6 +1,5 @@
 #!/system/bin/sh
 MODDIR=${0%/*}
-NVBASE=/data/adb
 RVPATH=$NVBASE/rvhc/${MODDIR##*/}.apk
 。 "$MODDIR/config"
 
