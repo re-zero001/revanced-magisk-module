@@ -1,7 +1,7 @@
 #!/system/bin/sh
 MODDIR=${0%/*}
-RVPATH=$NVBASE/rvhc/${MODDIR##*/}.apk
-。 "$MODDIR/config"
+RVPATH=/data/adb/rvhc/${MODDIR##*/}.apk
+. "$MODDIR/config"
 
 until [ "$(getprop sys.boot_completed)" = 1 ]; do sleep 1; done
 until [ -d "/sdcard/Android" ]; do sleep 1; done
