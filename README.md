@@ -1,6 +1,6 @@
 # ReVanced Magisk Module
 
-此项目发布个人对 anddea 的预发行补丁的 100% 简体中文汉化的构建版本，补丁选择使用原版图标以及 Material 主题。
+此项目发布个人对 anddea 补丁的 100% 简体中文汉化的 Youtube APK 以及 Modules 构建版本，补丁选择使用原版图标以及 Material 主题。
 
 个人 Telegram 频道，发布一些没用的东西，欢迎参观: https://t.me/Irena_Cottage
 
