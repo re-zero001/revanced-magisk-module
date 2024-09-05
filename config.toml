@@ -8,13 +8,13 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 enabled = true
 app-name = "YouTube"
 build-mode = "both"#both指同时打包apk和模块，只打包面具模块把both改成module
-version = "19.25.39"#每次打包前记得看一眼补丁支持版本
+version = "19.16.39"#每次打包前记得看一眼补丁支持版本
 patches-source = "re-zero001/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX"
-patches-version = "v2.227.0"
-integrations-version = "v0.154.0"
+patches-version = "v2.228.0"
+integrations-version = "v0.155.0"
 #这两个版本在补丁更新的时候记得改
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
